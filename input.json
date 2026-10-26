@@ -1,0 +1,17 @@
+{
+  "cities": [
+    "moscow",
+    "spb"
+  ],
+  "queries": [
+    "кафе",
+    "аптека"
+  ],
+  "maxItemsPerQuery": 10,
+  "maxPages": 2,
+  "maxResults": 10,
+  "includeContacts": false,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
